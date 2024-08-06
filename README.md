@@ -1,3 +1,6 @@
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Employees.PNG" alt="Screenshot 1" width="400">
+
+
 # **Safe Stock**
 
 Welcome to **Safe Stock**! This cutting-edge web application is engineered to revolutionize the management of your stock data. **Safe Stock** leverages a distributed database architecture to ensure that each user's data is securely and efficiently managed within a shared system. Built using a suite of modern technologies and adhering to best practices, **Safe Stock** provides a robust, scalable, and user-centric solution for managing and visualizing inventory data.
