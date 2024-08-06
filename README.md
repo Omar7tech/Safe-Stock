@@ -1,4 +1,4 @@
-<img src="https://github.com/Omar7tech/screenshots/blob/main/Employees.PNG" alt="Screenshot 1" width="400">
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Safe Stock/logo.png" alt="Screenshot 1" width="400">
 
 
 # **Safe Stock**
